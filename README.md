@@ -16,7 +16,7 @@ $ mkdir bin
 $ javac ./src/* -d bin/
 ```
 
-Next, cd into the bin directory, and run the WordGame driver, supplying it with a dictionary file as an argument.  A dictionary file simply contains a list of I have included a dictionary file, dictionary.dat, in the root of this project.
+Next, cd into the bin directory, and run the WordGame driver, supplying it with a dictionary file as an argument.  A dictionary file simply contains the list of possible words.  I have included a sample 8938-word dictionary file, dictionary.dat, in the root of this project.
 
 ```
 $ cd bin
